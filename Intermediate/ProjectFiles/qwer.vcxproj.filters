@@ -1,0 +1,73 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\qwer.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{0978A81A-7FD7-4313-8A8D-04448C91D991}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\qwer.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\qwerEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{9FA31BC0-3192-466B-BA0E-274902821C7D}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEditorPerProjectUserSettings.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultInput.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\qwer">
+      <UniqueIdentifier>{DB08FD9B-73F7-4D53-AEA1-95D9B664C6C1}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\qwer\qwer.Build.cs">
+      <Filter>Source\qwer</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\qwer\qwer.cpp">
+      <Filter>Source\qwer</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\qwer\qwer.h">
+      <Filter>Source\qwer</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\qwer\qwerCharacter.cpp">
+      <Filter>Source\qwer</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\qwer\qwerCharacter.h">
+      <Filter>Source\qwer</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\qwer\qwerGameMode.cpp">
+      <Filter>Source\qwer</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\qwer\qwerGameMode.h">
+      <Filter>Source\qwer</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="..\..\Source\qwer\BaseCharacter.h">
+      <Filter>Source\qwer</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\qwer\MyPlayerController.h">
+      <Filter>Source\qwer</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\..\Source\qwer\BaseCharacter.cpp">
+      <Filter>Source\qwer</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\qwer\MyPlayerController.cpp">
+      <Filter>Source\qwer</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

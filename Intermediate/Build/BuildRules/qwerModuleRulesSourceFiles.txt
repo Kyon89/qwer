@@ -1,0 +1,3 @@
+C:\Users\Ky\Documents\Unreal Projects\qwer\Source\qwer\qwer.Build.cs
+C:\Users\Ky\Documents\Unreal Projects\qwer\Source\qwer.Target.cs
+C:\Users\Ky\Documents\Unreal Projects\qwer\Source\qwerEditor.Target.cs

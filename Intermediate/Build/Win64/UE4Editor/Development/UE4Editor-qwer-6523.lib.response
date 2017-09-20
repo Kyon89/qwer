@@ -1,0 +1,22 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-qwer-6523.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\Program Files\Epic Games\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Users\Ky\Documents\Unreal Projects\qwer\Intermediate\Build\Win64\UE4Editor\Development\qwer\BaseCharacter.cpp.obj"
+"C:\Users\Ky\Documents\Unreal Projects\qwer\Intermediate\Build\Win64\UE4Editor\Development\qwer\MyPlayerController.cpp.obj"
+"C:\Users\Ky\Documents\Unreal Projects\qwer\Intermediate\Build\Win64\UE4Editor\Development\qwer\qwer.cpp.obj"
+"C:\Users\Ky\Documents\Unreal Projects\qwer\Intermediate\Build\Win64\UE4Editor\Development\qwer\qwerCharacter.cpp.obj"
+"C:\Users\Ky\Documents\Unreal Projects\qwer\Intermediate\Build\Win64\UE4Editor\Development\qwer\qwerGameMode.cpp.obj"
+"C:\Users\Ky\Documents\Unreal Projects\qwer\Intermediate\Build\Win64\UE4Editor\Development\qwer\BaseCharacter.gen.cpp.obj"
+"C:\Users\Ky\Documents\Unreal Projects\qwer\Intermediate\Build\Win64\UE4Editor\Development\qwer\MyPlayerController.gen.cpp.obj"
+"C:\Users\Ky\Documents\Unreal Projects\qwer\Intermediate\Build\Win64\UE4Editor\Development\qwer\qwer.init.gen.cpp.obj"
+"C:\Users\Ky\Documents\Unreal Projects\qwer\Intermediate\Build\Win64\UE4Editor\Development\qwer\qwerCharacter.gen.cpp.obj"
+"C:\Users\Ky\Documents\Unreal Projects\qwer\Intermediate\Build\Win64\UE4Editor\Development\qwer\qwerGameMode.gen.cpp.obj"
+"D:\Program Files\Epic Games\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\qwer\PCLaunch.rc.res"
+"D:\Program Files\Epic Games\UE_4.17\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"C:\Users\Ky\Documents\Unreal Projects\qwer\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-qwer-6523.lib"
